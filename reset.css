@@ -5,6 +5,15 @@
        url('fonts/iconfont.ttf?t=1643527932217') format('truetype');
 }
 
+@font-face {
+	font-family: 'pfan';
+	src: url('fonts/PFanHuTuTi.ttf') format('truetype');
+}
+
+:root {
+	scroll-behavior: auto;
+}
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -58,4 +67,10 @@ h2 {
 	font-weight: bold;
 	font-family: Audiowide;
 	color: #080808;
+}
+
+.logo-zh {
+	font-family: pfan;
+	letter-spacing: .2rem;
+	color: #222;
 }

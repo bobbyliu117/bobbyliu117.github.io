@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b92e76b8.css",
-    "main.js": "/static/js/main.7ea67157.js",
+    "main.css": "/static/css/main.67db06cd.css",
+    "main.js": "/static/js/main.2fd4c7e2.js",
     "static/media/code.svg": "/static/media/code.dbc95c25415059b96baa98fe2cf0e1f7.svg",
     "static/media/fitness.svg": "/static/media/fitness.04199f1e22136b013cbee32dd59f823a.svg",
     "static/media/basketball.svg": "/static/media/basketball.230769fdab5bb39c9aa1a1179598a2b8.svg",
     "static/media/me.jpeg": "/static/media/me.ff145911de8b93566691.jpeg",
     "static/media/dadbaby.svg": "/static/media/dadbaby.65878a36753e9bf2fb2b60d8c1ed2048.svg",
-    "static/media/vg9lab.png": "/static/media/vg9lab.b5d31dc6ec5f427e7fcc.png",
     "index.html": "/index.html",
-    "main.b92e76b8.css.map": "/static/css/main.b92e76b8.css.map",
-    "main.7ea67157.js.map": "/static/js/main.7ea67157.js.map"
+    "static/media/star.svg": "/static/media/star.2f7999bbf4e3be0c173afc3d55bda95f.svg",
+    "main.67db06cd.css.map": "/static/css/main.67db06cd.css.map",
+    "main.2fd4c7e2.js.map": "/static/js/main.2fd4c7e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b92e76b8.css",
-    "static/js/main.7ea67157.js"
+    "static/css/main.67db06cd.css",
+    "static/js/main.2fd4c7e2.js"
   ]
 }
